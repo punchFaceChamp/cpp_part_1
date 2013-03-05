@@ -1,3 +1,10 @@
+Shammel Lee | sidekick2rida@gmail.com
+
+### Homework: Week 3
+
+#####Project 4
+
+```
 #include <iostream>
 
 using namespace std;
@@ -61,3 +68,4 @@ double gForce(double m1,double m2,double d)
 	#########################################################
 	Quit? (y/n): y
 */
+```

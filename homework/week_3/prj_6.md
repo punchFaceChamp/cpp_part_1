@@ -1,3 +1,10 @@
+Shammel Lee | sidekick2rida@gmail.com
+
+### Homework: Week 3
+
+#####Project 6
+
+```
 #include <iostream>
 #include <cmath>
 
@@ -82,3 +89,4 @@ void standardDeviation(double& n1,double& n2,double& n3,double& n4,double& avg, 
 	######################################
 	Quit? (y/n): y
 */
+```

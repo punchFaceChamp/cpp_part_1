@@ -1,3 +1,9 @@
+Shammel Lee | sidekick2rida@gmail.com
+
+### Homework: Week 1
+
+#####Project 1
+```
 #include <iostream>
 
 using namespace std;
@@ -25,3 +31,4 @@ int main()
 
 	return 0;
 }
+```
